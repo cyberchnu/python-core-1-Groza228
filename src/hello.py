@@ -1,8 +1,2 @@
 def hello():
     return 'Hello!'
-
-
-
-
-
-
