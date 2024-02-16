@@ -1,9 +1,9 @@
 def fizz_buzz():
-    if a % 5 == 0 and a % 3 == 0:
+    if number % 5 == 0 and number % 3 == 0:
         return "FizzBuzz"
-    elif a % 3 == 0:
+    elif number % 3 == 0:
         return "Fizz"
-    elif a % 5 == 0:
+    elif number % 5 == 0:
         return "Buzz"
     else:
-        return str(a)
+        return str(number)
